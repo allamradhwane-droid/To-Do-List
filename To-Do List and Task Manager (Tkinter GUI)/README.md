@@ -52,11 +52,12 @@ To-Do List/
 ---
 ## 🧑‍💻 Author
 
-**Yasser Feteh Bennihi**
+**allam redhwane doc**
 
 Built for learning and portfolio demonstration.
 ---
 ## 🪶 License
 
 This project is open for educational and personal use.
+
 Feel free to explore, modify, and improve it — just don’t remove credits 😉.
